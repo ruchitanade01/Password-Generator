@@ -1,4 +1,4 @@
-Password-Generator
+## Password-Generator
 
 This project is a **Random Password Generator** built using Python.  
 It generates a strong and secure password based on the length provided by the user.
